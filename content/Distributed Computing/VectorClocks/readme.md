@@ -1,0 +1,2 @@
+# Goal 
+The goal of this assignment is to implement Vector-clocks and Singhal-Kshemkalyani optimiza- tion on a Distributed System. Implement both these locking algorithms in C++. Then, you have to compare the overheads incurred with messages stored and exchanged.
